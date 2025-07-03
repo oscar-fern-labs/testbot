@@ -1,0 +1,61 @@
+user_id,direction,station,timestamp
+user001,IN,Paddington,2024-01-15T08:00:00
+user001,OUT,Bank,2024-01-15T08:30:00
+user001,IN,Bank,2024-01-15T17:00:00
+user001,OUT,Paddington,2024-01-15T17:30:00
+user002,IN,Ealing Broadway,2024-01-15T09:00:00
+user002,OUT,Liverpool Street,2024-01-15T09:45:00
+user002,IN,Liverpool Street,2024-01-15T18:00:00
+user002,OUT,Ealing Broadway,2024-01-15T18:45:00
+user003,IN,Wimbledon,2024-01-15T07:30:00
+user003,OUT,Waterloo,2024-01-15T08:00:00
+user003,IN,Waterloo,2024-01-15T17:30:00
+user003,OUT,Wimbledon,2024-01-15T18:00:00
+user004,IN,Hammersmith,2024-01-15T08:15:00
+user004,OUT,King's Cross St. Pancras,2024-01-15T08:45:00
+user004,IN,King's Cross St. Pancras,2024-01-15T12:00:00
+user004,OUT,Angel,2024-01-15T12:10:00
+user004,IN,Angel,2024-01-15T13:00:00
+user004,OUT,Hammersmith,2024-01-15T13:30:00
+user005,IN,Richmond,2024-01-15T07:00:00
+user005,OUT,Victoria,2024-01-15T07:40:00
+user005,IN,Victoria,2024-01-15T08:00:00
+user005,OUT,Oxford Circus,2024-01-15T08:15:00
+user005,IN,Oxford Circus,2024-01-15T18:00:00
+user005,OUT,Victoria,2024-01-15T18:15:00
+user005,IN,Victoria,2024-01-15T18:30:00
+user005,OUT,Richmond,2024-01-15T19:10:00
+user006,IN,Stratford,2024-01-15T08:00:00
+user006,OUT,Bond Street,2024-01-15T08:35:00
+user007,IN,Heathrow Terminal 5,2024-01-15T06:00:00
+user007,OUT,Piccadilly Circus,2024-01-15T07:00:00
+user007,IN,Piccadilly Circus,2024-01-15T20:00:00
+user007,OUT,Heathrow Terminal 5,2024-01-15T21:00:00
+user008,IN,Woolwich Arsenal,2024-01-15T07:30:00
+user008,OUT,Canary Wharf,2024-01-15T08:00:00
+user008,IN,Canary Wharf,2024-01-15T17:00:00
+user008,OUT,Woolwich Arsenal,2024-01-15T17:30:00
+user009,IN,Epping,2024-01-15T06:30:00
+user009,OUT,Liverpool Street,2024-01-15T07:30:00
+user009,IN,Liverpool Street,2024-01-15T17:30:00
+user009,OUT,Epping,2024-01-15T18:30:00
+user010,IN,Amersham,2024-01-16T07:00:00
+user010,OUT,Baker Street,2024-01-16T08:00:00
+user010,IN,Baker Street,2024-01-16T17:00:00
+user011,OUT,King's Cross St. Pancras,2024-01-16T08:30:00
+user011,IN,King's Cross St. Pancras,2024-01-16T17:00:00
+user011,OUT,Highbury & Islington,2024-01-16T17:15:00
+user012,IN,Victoria,2024-01-16T08:00:00
+user012,OUT,Green Park,2024-01-16T08:10:00
+user012,IN,Green Park,2024-01-16T08:30:00
+user012,OUT,Oxford Circus,2024-01-16T08:35:00
+user012,IN,Oxford Circus,2024-01-16T09:00:00
+user012,OUT,Tottenham Court Road,2024-01-16T09:05:00
+user012,IN,Tottenham Court Road,2024-01-16T09:30:00
+user012,OUT,Leicester Square,2024-01-16T09:35:00
+user012,IN,Leicester Square,2024-01-16T10:00:00
+user012,OUT,Piccadilly Circus,2024-01-16T10:05:00
+user012,IN,Piccadilly Circus,2024-01-16T10:30:00
+user012,OUT,Green Park,2024-01-16T10:35:00
+user012,IN,Green Park,2024-01-16T11:00:00
+user012,OUT,Victoria,2024-01-16T11:10:00
